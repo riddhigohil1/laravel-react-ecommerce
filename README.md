@@ -1,1 +1,1 @@
-# laravel-react-ecommerce
+Laravel React Ecommerce Project
